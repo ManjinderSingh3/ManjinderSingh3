@@ -5,8 +5,19 @@
 
 I am a Graduate Student at Dalhousie University, Canada studying Masters of Applied Computer Science.
 
+## :man_technologist: Few technologies I've recently been working with!
 
-## :mailbox_with_mail: Get in Touch!
+* Machine Learning
+* Java
+* RDBMS
+* Tensorflow
+* PyTorch
+* Deep Learning
+* MongoDB
 
 ## 📫 Get in Touch !
+
+* LinkedIn: https://www.linkedin.com/in/manjinder-singh-a23aa3149/
+* Email: msinghw3@gmail.com
+* Phone: +1 - (902) 989 7544 
 
