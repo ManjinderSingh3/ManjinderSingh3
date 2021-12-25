@@ -19,5 +19,3 @@ I am a Graduate Student at Dalhousie University, Canada studying Masters of Appl
 
 * LinkedIn: https://www.linkedin.com/in/manjinder-singh-a23aa3149/
 * Email: msinghw3@gmail.com
-* Phone: +1 - (902) 989 7544 
-
