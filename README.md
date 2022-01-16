@@ -15,6 +15,11 @@ I am a Graduate Student at Dalhousie University, Canada studying Masters of Appl
 * Deep Learning
 * MongoDB
 
+[![Manjinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjinderSingh3)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjinderSingh3&langs_count=8&layout=compact)
+
 ## 📫 Get in Touch !
 
 * LinkedIn: https://www.linkedin.com/in/manjinder-singh-a23aa3149/
