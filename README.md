@@ -3,17 +3,20 @@
 
 ## Welcome to my GitHub page!
 
-I am a Graduate Student at Dalhousie University, Canada studying Masters of Applied Computer Science.
+A Results-Driven Software Engineer with a professional experience of working in an AGILE environment. Proficient in Java, Python, Angular, REST APIs, Cloud, SQL, No-SQL databases with strong problem-solving skills. 
 
 ## :man_technologist: Few technologies I've recently been working with!
 
-* Machine Learning
-* Java
+* Springboot
+* Enterprise Java
+* Core Java 
+* Angular 13
 * RDBMS
-* Tensorflow
-* PyTorch
-* Deep Learning
 * MongoDB
+* Machine Learning
+* Neural Networks
+* Deep Learning
+
 
 [![Manjinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjinderSingh3)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,4 +26,4 @@ I am a Graduate Student at Dalhousie University, Canada studying Masters of Appl
 ## 📫 Get in Touch !
 
 * LinkedIn: https://www.linkedin.com/in/manjinder-singh-a23aa3149/
-* Email: msinghw3@gmail.com
+* Email: msinghw7@gmail.com
