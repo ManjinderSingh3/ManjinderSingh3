@@ -3,19 +3,23 @@
 
 ## Welcome to my GitHub page!
 
-A Results-Driven Software Engineer with a professional experience of working in an AGILE environment. Proficient in Java, Python, Angular, REST APIs, Cloud, SQL, No-SQL databases with strong problem-solving skills. 
+A Results-Driven Software Engineer with a professional experience of working in an AGILE environment. Proficient in Java, JavaScript, TypeScript, React, REST APIs, NodeJS Cloud, SQL, No-SQL databases with strong problem-solving skills. 
 
 ## :man_technologist: Few technologies I've recently been working with!
 
+* Typescript and JavaScript
+* NodeJS
+* React
+* NextJS
+* MongoDB
+* Postgres
+* Prisma
 * Springboot
 * Enterprise Java
 * Core Java 
-* Angular 13
 * RDBMS
-* MongoDB
-* Machine Learning
-* Neural Networks
-* Deep Learning
+* Artificial Intelligence
+  
 
 
 [![Manjinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManjinderSingh3)](https://github.com/anuraghazra/github-readme-stats)
