@@ -11,6 +11,7 @@ A Results-Driven Software Engineer with a professional experience of working in 
 * NodeJS
 * React
 * NextJS
+* MaterialUI, Tailwind CSS
 * MongoDB
 * Postgres
 * Prisma
