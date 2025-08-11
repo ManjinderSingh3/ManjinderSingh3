@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Profile !!
 
 ### :man_technologist: Few technologies I've recently been working with:
-NextJS13, React, Turborepo, MonoRepos, Typescript, JavaScript, NodeJS, PRISMA, Postgres, MongoDB, MaterialUI, Tailwind CSS, Springboot, Enterprise Java, Core Java
+Java, Springboot, NodeJs, ExpressJs, NextJS, React, Typescript, JavaScript, Turborepo, MonoRepos, PRISMA, Postgres, MongoDB, MaterialUI, Tailwind CSS, ShadCN
   
 ## 📫 Get in Touch !
 
