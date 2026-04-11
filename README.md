@@ -20,4 +20,6 @@ Java, TypeScript, JavaScript, Spring Boot, Spring MVC, Node.js, Express, Kafka, 
 
 * LinkedIn :  https://www.linkedin.com/in/manjinder-dev/
 * LeetCode : [https://leetcode.com/Manjinder-Singh/](https://leetcode.com/u/manjinder_singh/)
+* Medium : https://medium.com/@msinghw3
+* Twitter : https://x.com/Manjindersinghw
 * Email :  msinghw7@gmail.com
